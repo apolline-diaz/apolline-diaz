@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front-End, UI and UX Design
 - 🌱 I’m currently learning JavaScript, React, Tailwind, and want to try Three JS
 - 💞️ I’m looking to collaborate on creative projects with more immersive and interactive experiences
-- 📫 How to reach me : check my "Portoflio-Minimal"
+- 📫 How to reach me : check my "Portfolio-Minimal"
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i ride motorbike
 
